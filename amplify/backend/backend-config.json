@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "bitriseamplifydemo10a5c0a3": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bitriseamplifydemo-dev-171515-authRole",
+      "UnauthRoleArn": "arn:aws:iam::445386517627:role/amplify-bitriseamplifydemo-dev-171515-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::445386517627:role/amplify-bitriseamplifydemo-dev-171515-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-bitriseamplifydemo-dev-171515-deployment",
+      "UnauthRoleName": "amplify-bitriseamplifydemo-dev-171515-unauthRole",
+      "StackName": "amplify-bitriseamplifydemo-dev-171515",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:445386517627:stack/amplify-bitriseamplifydemo-dev-171515/76e16310-5a2e-11eb-9c4a-06766cd58472",
+      "AmplifyAppId": "d1lihy7o9yblhf"
+    },
+    "categories": {
+      "auth": {
+        "bitriseamplifydemo10a5c0a3": {}
+      }
+    }
+  }
+}
